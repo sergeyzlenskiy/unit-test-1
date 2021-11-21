@@ -7,9 +7,6 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
   },
-  rules: {
-    'linebreak-style': 0,
-  },
   module: {
     rules: [
       {
